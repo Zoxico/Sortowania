@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  yup.cpp
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(57): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(70): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(87): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(118): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(119): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(128): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(131): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(161): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(168): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(180): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(203): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(210): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(226): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\zoxico\documents\cv\materiały\yup\yup\yup.cpp(241): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  yup.vcxproj -> C:\Users\Zoxico\Documents\CV\Materiały\yup\Debug\yup.exe
