@@ -4,4 +4,5 @@ Projest zawierający rózne rodzaje sortowania:
 - HEAPSORT
 - MERGESORT
 - MOJE SORTOWANIE
+DODATKOWO:
 + ALGORYTM PARTYCJONUJĄCY
